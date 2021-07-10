@@ -13,10 +13,6 @@ Relevance realization as core functional process of the brain:
 
 > Note: this is all reaaally experimental and just something I want to play with as an idea. I have no previous experience in this domain, but I'm really excited to try things out and start playing to learn in it.
 
-## High-level architecture
-
-This is not intended to be a full-blown happ, but rather a DNA that groups can plug in to help make sense of reality. 
-
 ## How?
 
 In a context (DNA), a group can make sense of what's important by aggregating the three aspects of relevance: hereness, nowness, and togetherness. 
@@ -39,3 +35,16 @@ You can have multiple perspectives from which you see reality, and switch betwee
 - Member: a member of the group. Members will be able to "propagate" posts from other agents (think re-post).  
 - Perspective: a configuration of levers grouped together. Eg, in a small village, you may have the "interesting farming projects" perspective and the "board games night" perspective. In a working team, you may have the  "urgent tasks" perspective and the "long term mission" perspective.
 - Lever: rate of importance of something (is this an interval? An absolute number? TBD).
+
+## High-level architecture
+
+This is not intended to be a full-blown happ, but rather a DNA that groups can plug in to help make sense of reality. 
+
+Other happs will be able to import this DNA and configure it to fit their needs.
+
+### Zomes
+- Aspects
+- Roles
+- Profiles
+- Posts (?)
+- Perspectives
